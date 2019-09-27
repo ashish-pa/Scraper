@@ -1,6 +1,0 @@
-com\dao\MongoConnector.class
-com\daobeans\MongoBean.class
-com\requestbeans\RequestBean.class
-com\utils\DateUtils.class
-com\restservices\RestController.class
-com\utils\MongoUtils.class
